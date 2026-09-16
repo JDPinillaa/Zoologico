@@ -2,6 +2,6 @@ package entidades;
 
 import java.util.Date;
 
-public class AsignarCuidador {
+public class AsignacionCuidador {
     private Date fecha;
 }
